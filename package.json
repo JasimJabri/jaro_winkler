@@ -1,0 +1,14 @@
+{
+  "name": "jaro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jaroWinkler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jaro-winkler": "^0.2.8"
+  }
+}
