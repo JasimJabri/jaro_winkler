@@ -1,4 +1,6 @@
 # Jaro Winkler Example
-```bash
+
+Usage
+```javascript
 node jaroWinkler.js seleldt
 ```
