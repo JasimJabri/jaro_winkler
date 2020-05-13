@@ -1,1 +1,4 @@
-# jaro_winkler
+# Jaro Winkler Example
+```bash
+node jaroWinkler.js seleldt
+```
